@@ -93,7 +93,7 @@
     "write-file-webpack-plugin": "4.5.1"
   },
   "engines": {
-    "node": ">=12.16.1"
+    "node": ">=12.10.1"
   },
   "scripts": {
     "prettier:format": "prettier --write \"{,src/**/}*.{md,json,ts,css,scss,yml}\"",
